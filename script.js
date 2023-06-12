@@ -57,7 +57,7 @@ console.log(makeFrequencyTable(arr3));
 console.log("===========\n");
 
 // ===================
-//! the below will only show 
+//! the below will only show the index position of 0,1,2,3,4, etc of the array, but the above solution shows the variable that exists in that position*
 // function makeFrequencyTable(arr) {
 //     const freqTable = {} //create new list for frequency of variables to show
 // for (let i = 0; i < arr.length; i++) { //for loop to iterate through the array
