@@ -44,7 +44,7 @@ for (let i = 0; i < arr.length; i++) { //for loop to iterate through the array
         freqTable[letter] = 1;
     }
 }
-console.log(freqTable); //log array table
+// console.log(freqTable); //log array table
 return freqTable;
 }
 console.log(makeFrequencyTable(arr1));
